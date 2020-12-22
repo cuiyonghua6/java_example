@@ -6,6 +6,5 @@ public class temp_ex {
             System.out.println("ls");
             Thread.sleep(1000);
         }
-
     }
 }
