@@ -1,5 +1,8 @@
 package design_partten.abstarct_factory_pattern;
 
+/*
+第三步：创建方向盘工厂接口，宝马方向盘工厂和奔驰方向盘工厂实现这个接口。
+ */
 //方向盘工厂接口
 public interface SteeringWheelFacatory {
     String createSteeringWheel();

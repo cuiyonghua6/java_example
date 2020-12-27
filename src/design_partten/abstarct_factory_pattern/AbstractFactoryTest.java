@@ -1,5 +1,8 @@
 package design_partten.abstarct_factory_pattern;
 
+/**
+ * 第四步：测试类
+ */
 //测试
 public class AbstractFactoryTest {
     public static void main(String[] args) {

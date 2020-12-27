@@ -1,5 +1,9 @@
 package design_partten.abstarct_factory_pattern;
 
+/*
+第一步：创建抽象汽车工厂接口，宝马工厂和奔驰工厂实现这个接口。
+ */
+
 //抽象汽车工厂接口
 public interface AbstractCarFactory {
     void installWheel();
