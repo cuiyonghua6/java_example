@@ -1,4 +1,4 @@
-package design_partten.factory_pattern;
+package design_partten.f2_factory_pattern;
 
 /*
 简单工厂模式拓展性不好，优秀的java代码是符合“开放-封闭”原则的，

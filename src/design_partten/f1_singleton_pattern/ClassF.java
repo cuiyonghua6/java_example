@@ -1,4 +1,4 @@
-package design_partten.singleton_pattern;
+package design_partten.f1_singleton_pattern;
 
 /**
  * 使用ThreadLocal实现单例模式

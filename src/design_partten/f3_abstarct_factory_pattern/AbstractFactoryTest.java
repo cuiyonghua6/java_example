@@ -1,4 +1,4 @@
-package design_partten.abstarct_factory_pattern;
+package design_partten.f3_abstarct_factory_pattern;
 
 /**
  * 第四步：测试类

@@ -1,4 +1,4 @@
-package design_partten.abstarct_factory_pattern;
+package design_partten.f3_abstarct_factory_pattern;
 
 /*
 第三步：创建方向盘工厂接口，宝马方向盘工厂和奔驰方向盘工厂实现这个接口。

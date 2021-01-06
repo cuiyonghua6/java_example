@@ -1,4 +1,4 @@
-package design_partten.factory_pattern;
+package design_partten.f2_factory_pattern;
 
 /*
 工厂方法模式可以说在你能想到的开源框架源码中必定会使用的一个设计模式，

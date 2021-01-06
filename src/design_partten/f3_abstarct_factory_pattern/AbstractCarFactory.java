@@ -1,4 +1,4 @@
-package design_partten.abstarct_factory_pattern;
+package design_partten.f3_abstarct_factory_pattern;
 
 /*
 第一步：创建抽象汽车工厂接口，宝马工厂和奔驰工厂实现这个接口。

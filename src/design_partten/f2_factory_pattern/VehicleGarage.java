@@ -1,4 +1,4 @@
-package design_partten.factory_pattern;
+package design_partten.f2_factory_pattern;
 
 public interface VehicleGarage {
     IVehicle getVehicle();
