@@ -2,7 +2,8 @@ package design_partten.f1_singleton_pattern;
 
 /**
  * 饿汉式单例模式
- * @author cui_yonghua  https://blog.csdn.net/cui_yonghua/article/details/90512943
+ * @author cui_yonghua
+ * CSDN博客地址: https://blog.csdn.net/cui_yonghua/article/details/90512943
  */
 public class ClassA {
     //1.私有化构造方法，使得在类的外部不能调用此方法，限制产生多个对象
