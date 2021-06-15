@@ -8,5 +8,6 @@ public class HelloWorld
     {
         //System.out.println为打印语句，用来显示结果
         System.out.println("欢迎使用Java来编写程序!");
+        
     }
 }
