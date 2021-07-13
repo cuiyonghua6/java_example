@@ -1,5 +1,7 @@
 package org.example;
 
+//import com.aliyun.odps.udf.annotation.Resolve;
+
 /**
  * Hello world!
  *
